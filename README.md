@@ -9,3 +9,5 @@ git init
 git pull git@github.com:Electorch/collab.git
 
 //how to create a new branch
+git checkout -b [name_of_your_new_branch]
+git push origin [name_of_your_new_branch]
