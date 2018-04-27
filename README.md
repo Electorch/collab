@@ -11,3 +11,15 @@
 //how to create a new branch
 > - $ git checkout -b [name_of_your_new_branch]
 > - $ git push origin [name_of_your_new_branch]
+
+
+
+
+
+
+
+
+
+# source
+> https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+> https://rogerdudler.github.io/git-guide/
