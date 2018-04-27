@@ -5,8 +5,7 @@
 > - first dll [git](https://git-scm.com/download/win "git download link")
 > - open lmms/projects folder
 > - right click anywhere > open git bash here
-> - $ git init
-> - $ git pull git@github.com:Electorch/collab.git
+> - $ git clone https://github.com/Electorch/collab.git
 
 //how to create a new branch
 > - $ git checkout -b [name_of_your_new_branch]
